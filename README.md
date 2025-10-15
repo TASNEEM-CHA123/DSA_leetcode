@@ -2,7 +2,7 @@
 
 ## Overview
 
-DSATrek is a cutting-edge platform for mastering Data Structures & Algorithms, acing interviews, and collaborating with a vibrant tech community. Built with Next.js 15, Drizzle ORM, Zustand, and powered by AI integrations, DSATrek offers everything you need to learn, practice, analyze, and grow as a developer.
+This project is a cutting-edge platform for mastering Data Structures & Algorithms, acing interviews, and collaborating with a vibrant tech community. Built with Next.js 15, Drizzle ORM, Zustand, and powered by AI integrations, DSATrek offers everything you need to learn, practice, analyze, and grow as a developer.
 
 ---
 
