@@ -1,17 +1,4 @@
-<div align="center">
-  <span style="display:inline-flex; align-items:center;">
-    <span style="font-size:6.2em; font-weight:bold; vertical-align:middle; color:#000;">D</span>
-    <span style="font-size:6.2em; font-weight:bold; vertical-align:middle; color:#FFD700;">SATrek</span>
-  </span>
-</div>
 
-**Status:** Active  
-**License:** MIT  
-**Frameworks:** Next.js 15, React, Tailwind CSS
-
-[dsatrek.com](https://dsatrek.com)
-
----
 
 ## Overview
 
@@ -19,7 +6,7 @@ DSATrek is a cutting-edge platform for mastering Data Structures & Algorithms, a
 
 ---
 
-## 🚀 What DSATrek Offers
+## 🚀 What DSA_leetcode Offers
 
 - **DSA Problem Solving**: Hundreds of curated problems with step-by-step visualizations (Array, String, Tree, Graph, DP, Greedy, Backtracking, and more)
 - **AI-Powered Interviews**: Generate and practice coding interviews with Deepgram STT/TTS and Gemini LLM. Real-time voice interview support.
@@ -171,4 +158,3 @@ MIT © License
 
 ---
 
-Made with ❤️ by DEVEN WAGH
